@@ -1,2 +1,11 @@
+.item{
+	height:300px;
+	width:300px;
+}
 
-/* Your CSS Code here. */
+.holder{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	flex-wrap:none;
+}
